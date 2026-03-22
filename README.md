@@ -1,5 +1,5 @@
-## Project name: RE Shop Web UI project
+## Project name: 
 ## fix lỗi cùng nhau
 ## Team members: 
 ### 1. Lã Ngọc Huyền
-### 2. No name
+### 2. No names
