@@ -2,4 +2,4 @@
 ## fix cùng nhau
 ## Team members: 
 ### 1. Lã Ngọc Huyền
-### 2. No name
+### 2. No names
