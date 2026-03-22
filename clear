@@ -1,0 +1,54 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 9e2d16e..7077321 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,11 +1,12 @@[m
+ <!DOCTYPE html>[m
+ <html lang="en">[m
+ <head>[m
+[32m+[m	[32m<!--hello anh em-->[m
+     <meta charset="utf-8">[m
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+     <meta name="description" content="">[m
+     <meta name="author" content="">[m
+[31m-    <title>Trang chủ | Dao-Shopper</title>[m
+[32m+[m[32m    <title>Trang chủ | Huyen-Shopper</title>[m
+     <link href="css/bootstrap.min.css" rel="stylesheet">[m
+     <link href="css/font-awesome.min.css" rel="stylesheet">[m
+     <link href="css/prettyPhoto.css" rel="stylesheet">[m
+[36m@@ -129,7 +130,7 @@[m
+ 								<div class="col-sm-6">[m
+ 									<h1><span>E</span>-SHOPPER</h1>[m
+ 									<h2>Website thương mại điện tử</h2>[m
+[31m-									<p>Đến với RE-Shopper, bạn sẽ có rất nhiều lựa chọn thật thời trang, phong cách cho chính mình để làm phong phú tủ đồ của các bạn. </p>[m
+[32m+[m									[32m<p>Đến với Huyen-Shopper, bạn sẽ có rất nhiều lựa chọn thật thời trang, phong cách cho chính mình để làm phong phú tủ đồ của các bạn. </p>[m
+ 									<button type="button" class="btn btn-default get">Chọn lựa ngay</button>[m
+ 								</div>[m
+ 								<div class="col-sm-6">[m
+[36m@@ -141,7 +142,7 @@[m
+ 								<div class="col-sm-6">[m
+ 									<h1><span>E</span>-SHOPPER</h1>[m
+ 									<h2>Website thương mại điện tử</h2>[m
+[31m-									<p>Đến với RE-Shopper, bạn sẽ có rất nhiều lựa chọn thật thời trang, phong cách cho chính mình để làm phong phú tủ đồ của các bạn. </p>[m
+[32m+[m									[32m<p>Đến với Huyen-Shopper, bạn sẽ có rất nhiều lựa chọn thật thời trang, phong cách cho chính mình để làm phong phú tủ đồ của các bạn. </p>[m
+ 									<button type="button" class="btn btn-default get">Chọn lựa ngay</button>[m
+ 								</div>[m
+ 								<div class="col-sm-6">[m
+[36m@@ -154,7 +155,7 @@[m
+ 								<div class="col-sm-6">[m
+ 									<h1><span>E</span>-SHOPPER</h1>[m
+ 									<h2>Website thương mại điện tử</h2>[m
+[31m-									<p>Đến với RE-Shopper, bạn sẽ có rất nhiều lựa chọn thật thời trang, phong cách cho chính mình để làm phong phú tủ đồ của các bạn. </p>[m
+[32m+[m									[32m<p>Đến với Huyen-Shopper, bạn sẽ có rất nhiều lựa chọn thật thời trang, phong cách cho chính mình để làm phong phú tủ đồ của các bạn. </p>[m
+ 									<button type="button" class="btn btn-default get">Chọn lựa ngay</button>[m
+ 								</div>[m
+ 								<div class="col-sm-6">[m
+[36m@@ -696,7 +697,7 @@[m
+ 		<div class="footer-bottom">[m
+ 			<div class="container">[m
+ 				<div class="row">[m
+[31m-					<p class="pull-left">Copyright © 2021 RE-SHOPPER Inc. All rights reserved.</p>[m
+[32m+[m					[32m<p class="pull-left">Copyright © 2021 Huyen-Shopper Inc. All rights reserved.</p>[m
+ 					<p class="pull-right">Redesigned by <span><a target="_blank" href="https://www.facebook.com/rikkeiacademy.vn">Rikkei Academy</a></span></p>[m
+ 				</div>[m
+ 			</div>[m
